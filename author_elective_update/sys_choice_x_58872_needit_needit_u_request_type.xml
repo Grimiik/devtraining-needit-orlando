@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_request_type" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_request_type</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2020-07-07 10:08:59</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>ff11245bdbf68090387021c4059619fc</instance_id>
+        <instance_name>dev100322</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_request_type</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_request_type" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_request_type</element><name>x_58872_needit_needit</name><sys_class_name/><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2020-07-07 10:08:59</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1828161538</payload_hash>
+        <record_name>Task.u_request_type</record_name>
+        <reverted_from/>
+        <source>642a95a22f7110104314808cf699b6c4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin_gv_jsalda</sys_created_by>
+        <sys_created_on>2020-07-07 10:08:59</sys_created_on>
+        <sys_id>f51879e62fb110104314808cf699b617</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17328c005b80000001</sys_recorded_at>
+        <sys_updated_by>admin_gv_jsalda</sys_updated_by>
+        <sys_updated_on>2020-07-07 10:08:59</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>711879e626b11010ba33b1a363cc0517</update_guid>
+        <update_guid_history>711879e626b11010ba33b1a363cc0517:1828161538,f51879e6cfb11010091a24b7222da413:-1701966180,311879e670b110103a36891762df6910:736548692,791879e66eb11010adc87be7305cb80c:833312879,ec2a9de28a7110102beb8a0276bcf98d:0,901a59e2a87110108d940d384262d6fa:1961718393,501a59e2ab7110104c4d6f218ba68af6:-1701966180,0c1a59e277711010de15a8db1f31c0f2:736548692,c41a59e2ed71101049f325fd0b9acaef:833312879,4a026ab031215010cd23eaff2fd2cab0:0,f1f1a6b08121501063e7d5fc5aafbb31:-818029943,71f1a6b05c2150105c950f094c3d2a2d:-1701966180,f9f1a6b0a82150108ef76d25a4538629:736548692,75f1a6b0862150103f7f23509dd39f26:833312879,8233e4af3b951010613c9946b6f555e2:0,b22324af389510100c2c8ad0fbd180ff:720328987,222324af19951010e85924d86db7e9fb:-1701966180,aa2324af2495101005c09fab7ca56af7:736548692,262324afc29510103f14713dd4ada0f4:833312879,eb42b0ae7551d410b5862565d0fb7da4:0,5b42b0ae3d51d410e6a9bd6e01029f94:833312879</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin_gv_jsalda</sys_created_by>
+        <sys_created_on>2020-07-07 10:09:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>2f18b9e62fb110104314808cf699b6bd</sys_id>
+        <sys_metadata>2f18b9e62fb110104314808cf699b6bd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_request_type</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_request_type</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_request_type">f51879e62fb110104314808cf699b617</sys_update_version>
+        <sys_updated_by>admin_gv_jsalda</sys_updated_by>
+        <sys_updated_on>2020-07-07 10:09:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
