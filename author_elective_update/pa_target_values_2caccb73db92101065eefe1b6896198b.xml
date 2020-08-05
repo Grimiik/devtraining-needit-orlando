@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_target_values">
+    <pa_target_values action="DELETE">
+        <sys_class_name>pa_target_values</sys_class_name>
+        <sys_created_by>admin_gv_jsalda</sys_created_by>
+        <sys_created_on>2020-08-05 10:02:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2caccb73db92101065eefe1b6896198b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>200</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_target_values_2caccb73db92101065eefe1b6896198b</sys_update_name>
+        <sys_updated_by>admin_gv_jsalda</sys_updated_by>
+        <sys_updated_on>2020-08-05 10:02:10</sys_updated_on>
+        <target display_value="NeedIt: Due Monthly">64accb73db92101065eefe1b68961989</target>
+        <target_at>20200801</target_at>
+        <value>200</value>
+    </pa_target_values>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>d080186cdbba53006578f22ebf96192b</instance_id>
+        <instance_name>dev61589</instance_name>
+        <name>pa_target_values_2caccb73db92101065eefe1b6896198b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_target_values"><pa_target_values action="INSERT_OR_UPDATE"><sys_class_name>pa_target_values</sys_class_name><sys_created_by>admin_gv_jsalda</sys_created_by><sys_created_on>2020-08-05 10:02:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2caccb73db92101065eefe1b6896198b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>200</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_target_values_2caccb73db92101065eefe1b6896198b</sys_update_name><sys_updated_by>admin_gv_jsalda</sys_updated_by><sys_updated_on>2020-08-05 10:02:10</sys_updated_on><target display_value="NeedIt: Due Monthly">64accb73db92101065eefe1b68961989</target><target_at>20200801</target_at><value>200</value></pa_target_values></record_update>]]></payload>
+        <payload_hash>1454388265</payload_hash>
+        <record_name>200</record_name>
+        <reverted_from/>
+        <source>5431ea77db12101065eefe1b68961971</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin_gv_jsalda</sys_created_by>
+        <sys_created_on>2020-08-05 10:02:10</sys_created_on>
+        <sys_id>ecaccb73db92101065eefe1b6896198f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173be1231750000001</sys_recorded_at>
+        <sys_updated_by>admin_gv_jsalda</sys_updated_by>
+        <sys_updated_on>2020-08-05 10:02:10</sys_updated_on>
+        <type>Target value</type>
+        <update_guid>28accb73ad9210109f3fe475d2c58a8f</update_guid>
+        <update_guid_history>28accb73ad9210109f3fe475d2c58a8f:1454388265</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="200">d83d0f33db92101065eefe1b68961940</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin_gv_jsalda</sys_created_by>
+        <sys_created_on>2020-08-05 10:04:36</sys_created_on>
+        <sys_db_object display_value="" name="pa_target_values">pa_target_values</sys_db_object>
+        <sys_id>7d5bde74613d4ddc99dedf6610bdf0e4</sys_id>
+        <sys_metadata>2caccb73db92101065eefe1b6896198b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>200</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="2485fab3db52101065eefe1b689619ba">64accb73db92101065eefe1b68961989</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_target_values_2caccb73db92101065eefe1b6896198b</sys_update_name>
+        <sys_update_version display_value="pa_target_values_2caccb73db92101065eefe1b6896198b">ecaccb73db92101065eefe1b6896198f</sys_update_version>
+        <sys_updated_by>admin_gv_jsalda</sys_updated_by>
+        <sys_updated_on>2020-08-05 10:04:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
